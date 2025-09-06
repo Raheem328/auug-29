@@ -1,4 +1,6 @@
 this is my txt file 
 i have edited file by using nano editor.
 hello all
+hello i am edited this file  to  this
+huhfn
 
